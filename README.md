@@ -1,5 +1,5 @@
 # OpenGills
-An open source ventilator community project inspired by these three projects:
+An open source ventilator grage project inspired by these three university projects. Sincerly thank you for their inspirations. They say necessity is the mother of all inventions. Covid-19 pandameic has made these inventions necessary to survive and sustain as us. The goal of this project is to inspire other makers, DIY enthussists and kids alike around the world to come up with ideas using off the shelf easily available items.
 
 1. Open Source Ventilator Project
 http://simulation.health.ufl.edu 
