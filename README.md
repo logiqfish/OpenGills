@@ -6,7 +6,9 @@ OpenGills is an open source ventilator garage project inspired by these three un
 2.	MIT E-Vent http://e-vent.mit.edu
 3.	Rice University ApolloBVM - Emergency Use Ventilator https://www.youtube.com/watch?v=1t2t8d8xtD0
 
-Our project is built upon the concept of positive-pressure ventilation using manual resuscitators also known as an AMBU bag. AMBU bags are usually plentiful in hospitals around the world. As they say “Necessity is the mother of invention” – The COVID-19 pandemic has made these inventions necessary to survive, sustain and prevail as a society.
+This morning on CNN, it reads that the world is scrambling to buy ventilators in the Covid-19 pandemic. For example South Sudan has only four ventilators for 12 million people! https://www.cnn.com/2020/04/18/africa/covid-19-ventilator-shortage-intl-scli/index.html. Unfortunately, this is the precarious world we all live in today... 
+
+Our project is built upon the concept of positive-pressure ventilation using manual resuscitators also known as an AMBU bag. AMBU bags are usually plentiful in hospitals around the world. As they say “Necessity is the mother of invention” – The Covid-19 pandemic has made these inventions necessary to survive, sustain and prevail as a society.
 
 The goal of this project is to inspire other makers and kids alike around the world to come up with innovative, life-saving ideas using off-the-shelf items. Additionally to facilitate this project, we’ve included the code, circuit and materials on github see descriptions below. Should there be a time where a respiratory pandemic hits again, individuals can potentially create a simple, reliable and low-cost ventilator for under $100, which would combat the worldwide shortages we are witnessing on the news.
 
